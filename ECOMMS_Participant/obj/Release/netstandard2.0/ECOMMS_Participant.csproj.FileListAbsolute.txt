@@ -10,3 +10,15 @@
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Participant/obj/Release/netstandard2.0/ECOMMS_Participant.csproj.CopyComplete
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Participant/obj/Release/netstandard2.0/ECOMMS_Participant.dll
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Participant/obj/Release/netstandard2.0/ECOMMS_Participant.pdb
+D:\dev\github\ecomms\ECOMMS_Participant\bin\Release\netstandard2.0\ECOMMS_Participant.deps.json
+D:\dev\github\ecomms\ECOMMS_Participant\bin\Release\netstandard2.0\ECOMMS_Participant.dll
+D:\dev\github\ecomms\ECOMMS_Participant\bin\Release\netstandard2.0\ECOMMS_Participant.pdb
+D:\dev\github\ecomms\ECOMMS_Participant\bin\Release\netstandard2.0\ECOMMS_Entity.dll
+D:\dev\github\ecomms\ECOMMS_Participant\bin\Release\netstandard2.0\ECOMMS_Entity.pdb
+D:\dev\github\ecomms\ECOMMS_Participant\obj\Release\netstandard2.0\ECOMMS_Participant.csprojAssemblyReference.cache
+D:\dev\github\ecomms\ECOMMS_Participant\obj\Release\netstandard2.0\ECOMMS_Participant.AssemblyInfoInputs.cache
+D:\dev\github\ecomms\ECOMMS_Participant\obj\Release\netstandard2.0\ECOMMS_Participant.AssemblyInfo.cs
+D:\dev\github\ecomms\ECOMMS_Participant\obj\Release\netstandard2.0\ECOMMS_Participant.csproj.CoreCompileInputs.cache
+D:\dev\github\ecomms\ECOMMS_Participant\obj\Release\netstandard2.0\ECOMMS_Participant.csproj.CopyComplete
+D:\dev\github\ecomms\ECOMMS_Participant\obj\Release\netstandard2.0\ECOMMS_Participant.dll
+D:\dev\github\ecomms\ECOMMS_Participant\obj\Release\netstandard2.0\ECOMMS_Participant.pdb

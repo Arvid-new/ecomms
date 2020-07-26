@@ -254,13 +254,15 @@ namespace ECOMMS_Client
                 {
                     //heartbeats are coming every 3 seconds
                     //go offline if we dont see one in 4.5
-                    
-                    Console.WriteLine(heartbeat + ":" + watch.ElapsedMilliseconds);
 
+#if DEBUG
+                    Console.WriteLine(heartbeat + ":" + watch.ElapsedMilliseconds);
+#endif
                     if (watch.ElapsedMilliseconds > 4500)
                     {
+#if DEBUG
                         Console.WriteLine("offline");
-
+#endif
                         online = false;
                     }
                     else

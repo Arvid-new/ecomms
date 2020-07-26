@@ -347,8 +347,7 @@ namespace ECOMMS_Participant
     {
         public ServiceParticipant(
             string id, 
-            Role role, 
-            ECOMMS_Entity.Type type) : base(id, role, type)
+            ECOMMS_Entity.Type type) : base(id, Role.Service, type)
         {
         }
     }

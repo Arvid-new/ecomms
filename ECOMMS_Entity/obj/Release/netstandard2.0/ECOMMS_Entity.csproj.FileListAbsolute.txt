@@ -6,3 +6,11 @@
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Entity/obj/Release/netstandard2.0/ECOMMS_Entity.AssemblyInfo.cs
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Entity/obj/Release/netstandard2.0/ECOMMS_Entity.dll
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Entity/obj/Release/netstandard2.0/ECOMMS_Entity.pdb
+D:\dev\github\ecomms\ECOMMS_Entity\bin\Release\netstandard2.0\ECOMMS_Entity.deps.json
+D:\dev\github\ecomms\ECOMMS_Entity\bin\Release\netstandard2.0\ECOMMS_Entity.dll
+D:\dev\github\ecomms\ECOMMS_Entity\bin\Release\netstandard2.0\ECOMMS_Entity.pdb
+D:\dev\github\ecomms\ECOMMS_Entity\obj\Release\netstandard2.0\ECOMMS_Entity.AssemblyInfoInputs.cache
+D:\dev\github\ecomms\ECOMMS_Entity\obj\Release\netstandard2.0\ECOMMS_Entity.AssemblyInfo.cs
+D:\dev\github\ecomms\ECOMMS_Entity\obj\Release\netstandard2.0\ECOMMS_Entity.csproj.CoreCompileInputs.cache
+D:\dev\github\ecomms\ECOMMS_Entity\obj\Release\netstandard2.0\ECOMMS_Entity.dll
+D:\dev\github\ecomms\ECOMMS_Entity\obj\Release\netstandard2.0\ECOMMS_Entity.pdb

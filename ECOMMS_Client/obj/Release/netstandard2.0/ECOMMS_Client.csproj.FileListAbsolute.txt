@@ -10,3 +10,15 @@
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Client/obj/Release/netstandard2.0/ECOMMS_Client.csproj.CopyComplete
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Client/obj/Release/netstandard2.0/ECOMMS_Client.dll
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Client/obj/Release/netstandard2.0/ECOMMS_Client.pdb
+D:\dev\github\ecomms\ECOMMS_Client\bin\Release\netstandard2.0\ECOMMS_Client.deps.json
+D:\dev\github\ecomms\ECOMMS_Client\bin\Release\netstandard2.0\ECOMMS_Client.dll
+D:\dev\github\ecomms\ECOMMS_Client\bin\Release\netstandard2.0\ECOMMS_Client.pdb
+D:\dev\github\ecomms\ECOMMS_Client\bin\Release\netstandard2.0\ECOMMS_Entity.dll
+D:\dev\github\ecomms\ECOMMS_Client\bin\Release\netstandard2.0\ECOMMS_Entity.pdb
+D:\dev\github\ecomms\ECOMMS_Client\obj\Release\netstandard2.0\ECOMMS_Client.csprojAssemblyReference.cache
+D:\dev\github\ecomms\ECOMMS_Client\obj\Release\netstandard2.0\ECOMMS_Client.AssemblyInfoInputs.cache
+D:\dev\github\ecomms\ECOMMS_Client\obj\Release\netstandard2.0\ECOMMS_Client.AssemblyInfo.cs
+D:\dev\github\ecomms\ECOMMS_Client\obj\Release\netstandard2.0\ECOMMS_Client.csproj.CoreCompileInputs.cache
+D:\dev\github\ecomms\ECOMMS_Client\obj\Release\netstandard2.0\ECOMMS_Client.csproj.CopyComplete
+D:\dev\github\ecomms\ECOMMS_Client\obj\Release\netstandard2.0\ECOMMS_Client.dll
+D:\dev\github\ecomms\ECOMMS_Client\obj\Release\netstandard2.0\ECOMMS_Client.pdb
