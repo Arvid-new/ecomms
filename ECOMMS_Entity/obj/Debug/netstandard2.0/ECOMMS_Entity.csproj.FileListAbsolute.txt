@@ -7,12 +7,21 @@
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.dll
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.pdb
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.csprojAssemblyReference.cache
-D:\dev\github\ecomms\ECOMMS_Entity\bin\Debug\netstandard2.0\ECOMMS_Entity.deps.json
-D:\dev\github\ecomms\ECOMMS_Entity\bin\Debug\netstandard2.0\ECOMMS_Entity.dll
-D:\dev\github\ecomms\ECOMMS_Entity\bin\Debug\netstandard2.0\ECOMMS_Entity.pdb
-D:\dev\github\ecomms\ECOMMS_Entity\obj\Debug\netstandard2.0\ECOMMS_Entity.csprojAssemblyReference.cache
-D:\dev\github\ecomms\ECOMMS_Entity\obj\Debug\netstandard2.0\ECOMMS_Entity.AssemblyInfoInputs.cache
-D:\dev\github\ecomms\ECOMMS_Entity\obj\Debug\netstandard2.0\ECOMMS_Entity.AssemblyInfo.cs
-D:\dev\github\ecomms\ECOMMS_Entity\obj\Debug\netstandard2.0\ECOMMS_Entity.csproj.CoreCompileInputs.cache
-D:\dev\github\ecomms\ECOMMS_Entity\obj\Debug\netstandard2.0\ECOMMS_Entity.dll
-D:\dev\github\ecomms\ECOMMS_Entity\obj\Debug\netstandard2.0\ECOMMS_Entity.pdb
+D:/dev/github/ecomms/ECOMMS_Entity/bin/Debug/netstandard2.0/ECOMMS_Entity.deps.json
+D:/dev/github/ecomms/ECOMMS_Entity/bin/Debug/netstandard2.0/ECOMMS_Entity.dll
+D:/dev/github/ecomms/ECOMMS_Entity/bin/Debug/netstandard2.0/ECOMMS_Entity.pdb
+D:/dev/github/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.csprojAssemblyReference.cache
+D:/dev/github/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.AssemblyInfoInputs.cache
+D:/dev/github/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.AssemblyInfo.cs
+D:/dev/github/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.csproj.CoreCompileInputs.cache
+D:/dev/github/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.dll
+D:/dev/github/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.pdb
+/Volumes/xtra/projects/ecomms/ECOMMS_Entity/bin/Debug/netstandard2.0/ECOMMS_Entity.deps.json
+/Volumes/xtra/projects/ecomms/ECOMMS_Entity/bin/Debug/netstandard2.0/ECOMMS_Entity.dll
+/Volumes/xtra/projects/ecomms/ECOMMS_Entity/bin/Debug/netstandard2.0/ECOMMS_Entity.pdb
+/Volumes/xtra/projects/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.csprojAssemblyReference.cache
+/Volumes/xtra/projects/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.AssemblyInfoInputs.cache
+/Volumes/xtra/projects/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.AssemblyInfo.cs
+/Volumes/xtra/projects/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.csproj.CoreCompileInputs.cache
+/Volumes/xtra/projects/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.dll
+/Volumes/xtra/projects/ecomms/ECOMMS_Entity/obj/Debug/netstandard2.0/ECOMMS_Entity.pdb

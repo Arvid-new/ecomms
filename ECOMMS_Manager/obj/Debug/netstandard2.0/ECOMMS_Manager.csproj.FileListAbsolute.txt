@@ -12,17 +12,31 @@
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.csproj.CopyComplete
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.dll
 /Users/sne/Dev/TA Enterprise Communications/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.pdb
-D:\dev\github\ecomms\ECOMMS_Manager\bin\Debug\netstandard2.0\ECOMMS_Manager.deps.json
-D:\dev\github\ecomms\ECOMMS_Manager\bin\Debug\netstandard2.0\ECOMMS_Manager.dll
-D:\dev\github\ecomms\ECOMMS_Manager\bin\Debug\netstandard2.0\ECOMMS_Manager.pdb
-D:\dev\github\ecomms\ECOMMS_Manager\bin\Debug\netstandard2.0\ECOMMS_Client.dll
-D:\dev\github\ecomms\ECOMMS_Manager\bin\Debug\netstandard2.0\ECOMMS_Entity.dll
-D:\dev\github\ecomms\ECOMMS_Manager\bin\Debug\netstandard2.0\ECOMMS_Client.pdb
-D:\dev\github\ecomms\ECOMMS_Manager\bin\Debug\netstandard2.0\ECOMMS_Entity.pdb
-D:\dev\github\ecomms\ECOMMS_Manager\obj\Debug\netstandard2.0\ECOMMS_Manager.csprojAssemblyReference.cache
-D:\dev\github\ecomms\ECOMMS_Manager\obj\Debug\netstandard2.0\ECOMMS_Manager.AssemblyInfoInputs.cache
-D:\dev\github\ecomms\ECOMMS_Manager\obj\Debug\netstandard2.0\ECOMMS_Manager.AssemblyInfo.cs
-D:\dev\github\ecomms\ECOMMS_Manager\obj\Debug\netstandard2.0\ECOMMS_Manager.csproj.CoreCompileInputs.cache
-D:\dev\github\ecomms\ECOMMS_Manager\obj\Debug\netstandard2.0\ECOMMS_Manager.csproj.CopyComplete
-D:\dev\github\ecomms\ECOMMS_Manager\obj\Debug\netstandard2.0\ECOMMS_Manager.dll
-D:\dev\github\ecomms\ECOMMS_Manager\obj\Debug\netstandard2.0\ECOMMS_Manager.pdb
+D:/dev/github/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Manager.deps.json
+D:/dev/github/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Manager.dll
+D:/dev/github/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Manager.pdb
+D:/dev/github/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Client.dll
+D:/dev/github/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Entity.dll
+D:/dev/github/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Client.pdb
+D:/dev/github/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Entity.pdb
+D:/dev/github/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.csprojAssemblyReference.cache
+D:/dev/github/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.AssemblyInfoInputs.cache
+D:/dev/github/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.AssemblyInfo.cs
+D:/dev/github/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.csproj.CoreCompileInputs.cache
+D:/dev/github/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.csproj.CopyComplete
+D:/dev/github/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.dll
+D:/dev/github/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.pdb
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Manager.deps.json
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Manager.dll
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Manager.pdb
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Client.dll
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Entity.dll
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Client.pdb
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/bin/Debug/netstandard2.0/ECOMMS_Entity.pdb
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.csprojAssemblyReference.cache
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.AssemblyInfoInputs.cache
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.AssemblyInfo.cs
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.csproj.CoreCompileInputs.cache
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.csproj.CopyComplete
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.dll
+/Volumes/xtra/projects/ecomms/ECOMMS_Manager/obj/Debug/netstandard2.0/ECOMMS_Manager.pdb

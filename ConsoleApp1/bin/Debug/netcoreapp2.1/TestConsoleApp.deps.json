@@ -9,6 +9,7 @@
       "TestConsoleApp/1.0.0": {
         "dependencies": {
           "ECOMMS_Client": "1.0.0",
+          "ECOMMS_Entity": "1.0.0",
           "ECOMMS_Manager": "1.0.0",
           "ECOMMS_Participant": "1.0.0"
         },

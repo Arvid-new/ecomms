@@ -1,16 +1,16 @@
 ﻿#define demo_main
 //#define demo_2
 
-using ECOMMS_Client;
-using ECOMMS_Entity;
-using ECOMMS_Manager;
-using ECOMMS_Participant;
-using NATS.Client;
 using System;
 using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using ECOMMS_Client;
+using ECOMMS_Entity;
+using ECOMMS_Manager;
+using ECOMMS_Participant;
+using NATS.Client;
 
 namespace ConsoleApp1
 {
@@ -29,7 +29,7 @@ namespace ConsoleApp1
     class AddressServiceParticipant : ServiceParticipant, IAddressServiceParticipant
     {
         public AddressServiceParticipant() : 
-            base(Guid.Empty.ToString(), Role.Service, ECOMMS_Entity.Type.Address)
+            base(Guid.Empty.ToString(), ECOMMS_Entity.Type.Address)
         {
         }
 

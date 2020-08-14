@@ -9,6 +9,7 @@
     <ProjectReference Include="..\ECOMMS_Client\ECOMMS_Client.csproj" />
     <ProjectReference Include="..\ECOMMS_Manager\ECOMMS_Manager.csproj" />
     <ProjectReference Include="..\ECOMMS_Participant\ECOMMS_Participant.csproj" />
+    <ProjectReference Include="..\ECOMMS_Entity\ECOMMS_Entity.csproj" />
   </ItemGroup>
 
 </Project>

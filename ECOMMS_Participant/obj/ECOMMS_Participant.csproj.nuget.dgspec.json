@@ -1,33 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj": {}
+    "/Volumes/xtra/projects/ecomms/ECOMMS_Participant/ECOMMS_Participant.csproj": {}
   },
   "projects": {
-    "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
+    "/Volumes/xtra/projects/ecomms/ECOMMS_Entity/ECOMMS_Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj",
+        "projectUniqueName": "/Volumes/xtra/projects/ecomms/ECOMMS_Entity/ECOMMS_Entity.csproj",
         "projectName": "ECOMMS_Entity",
-        "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj",
-        "packagesPath": "C:\\Users\\objec\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\obj\\",
+        "projectPath": "/Volumes/xtra/projects/ecomms/ECOMMS_Entity/ECOMMS_Entity.csproj",
+        "packagesPath": "/Users/sne/.nuget/packages/",
+        "outputPath": "/Volumes/xtra/projects/ecomms/ECOMMS_Entity/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\objec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/sne/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\10.53.2.11\\hearth\\TacoCo\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,41 +60,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj": {
+    "/Volumes/xtra/projects/ecomms/ECOMMS_Participant/ECOMMS_Participant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj",
+        "projectUniqueName": "/Volumes/xtra/projects/ecomms/ECOMMS_Participant/ECOMMS_Participant.csproj",
         "projectName": "ECOMMS_Participant",
-        "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj",
-        "packagesPath": "C:\\Users\\objec\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\obj\\",
+        "projectPath": "/Volumes/xtra/projects/ecomms/ECOMMS_Participant/ECOMMS_Participant.csproj",
+        "packagesPath": "/Users/sne/.nuget/packages/",
+        "outputPath": "/Volumes/xtra/projects/ecomms/ECOMMS_Participant/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\objec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/sne/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\10.53.2.11\\hearth\\TacoCo\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
-                "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj"
+              "/Volumes/xtra/projects/ecomms/ECOMMS_Entity/ECOMMS_Entity.csproj": {
+                "projectPath": "/Volumes/xtra/projects/ecomms/ECOMMS_Entity/ECOMMS_Entity.csproj"
               }
             }
           }
@@ -134,7 +124,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     }
