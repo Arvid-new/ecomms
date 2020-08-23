@@ -25,6 +25,8 @@ namespace ECOMMS_Client
         //indicate online/offline by listening to heartbeat
         bool online { get; set; }
         //void on(string anEventString, Action<string> callback);
+
+        bool isInitialized { get; set; }
     }
 
     public interface IInstrumentClient : IClient
@@ -46,7 +48,7 @@ namespace ECOMMS_Client
         bool _online = true;
         List<Action<string, byte[]>> _statusListners = new List<Action<string, byte[]>>();
 
-        bool _isInitialized = false;
+        //bool _isInitialized = false;
         int _propertiesInitialized = 0;
         int _propertiesInitializedTarget = 1 | 2 | 4 | 8;
         private void propertyInitialized(int which)
@@ -54,17 +56,18 @@ namespace ECOMMS_Client
             lock(this)
             {
                 _propertiesInitialized |= which;
-                if (!_isInitialized)
+                if (!isInitialized)
                 {
                     if (_propertiesInitializedTarget == _propertiesInitialized)
                     {
-                        _isInitialized = true;
+                        isInitialized = true;
                         notify("INITIALIZED");
                     }
                 }
             }
         }
 
+        public bool isInitialized { get; set; }
         public bool online
         {
             get
