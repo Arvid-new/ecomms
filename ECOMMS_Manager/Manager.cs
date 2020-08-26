@@ -139,10 +139,12 @@ namespace ECOMMS_Manager
                                     //manager.notify("DISCONNECTED", observedClient);
 
                                     _clients.Remove(observedClient);
+                                    _tempClients.Remove(observedClient);
+
                                     //manager.notify("CLIENTS_CHANGED");
 
-                                    client.removeAllObservers();
-                                    client.removeAllListeners();
+                                    observedClient.removeAllObservers();
+                                    observedClient.removeAllListeners();
                                 }
                                 break;
                         }
